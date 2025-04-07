@@ -1,0 +1,31 @@
+state={
+	id=7
+	name="STATE_7"
+
+	provinces={
+		4199 10013 13071
+	}
+
+	manpower=132500
+	state_category = rural
+	buildings_max_level_factor=1.00
+
+	history={
+		owner = DRG
+		add_core_of = DRG
+
+		victory_points = { 13071 5 }
+
+		buildings = {
+			industrial_complex = 1
+			13071 = {
+				landmark_dragon_throne = 1
+			}
+		}
+	}
+
+	resources={
+		steel=5
+		crystals=12
+	}
+}

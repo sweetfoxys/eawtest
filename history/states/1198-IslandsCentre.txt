@@ -1,0 +1,42 @@
+
+state={
+	id=1198
+	name="STATE_1198"
+	state_category = small_island
+	provinces={
+		2602 2601 2600 2593 2581 2577 2576 2575 2574 2567 2556 2553 2552 2551 2550 2543 2529 2528 2527 2526 2520 1003 
+	}
+	resources={
+		rubber = 3
+	}
+	history={
+		owner = MER
+		add_core_of = MER
+		buildings = {
+			infrastructure = 0
+			2581={
+				naval_base = 1
+			}
+			2520={
+				naval_base = 1
+			}
+			2567={
+				naval_base = 1
+			}
+			2601={
+				naval_base = 1
+			}
+			1003={
+				naval_base = 1
+			}
+			2527={
+				naval_base = 2
+			}
+		}
+		victory_points={
+			2527 3
+		}
+	}
+	manpower=135944
+	buildings_max_level_factor=1.000
+}

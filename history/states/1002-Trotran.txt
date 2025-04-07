@@ -1,0 +1,37 @@
+
+state={
+	id=1002
+	name="STATE_1002"
+	resources={
+		steel=12.000
+	}
+
+	history={
+		owner = KAR
+		add_core_of = KAR
+		add_core_of = MTO
+		buildings = {
+			infrastructure = 3
+			arms_factory = 2
+			industrial_complex = 1
+			dockyard = 2
+			14113 = {
+				naval_base = 2
+
+			}
+
+		}
+		victory_points = {
+			14113 20 
+		}
+
+	}
+
+	provinces={
+		7252 13988 14006 14007 14019 14020 14033 14034 14040 14047 14049 14055 14071 14073 14077 14082 14091 14092 14093 14094 14097 14105 14112 14113 14114 14117 14119 14123 14126 
+	}
+	manpower=1011248
+	buildings_max_level_factor=1.000
+	state_category=city
+	local_supplies=0.000
+}

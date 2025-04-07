@@ -1,0 +1,33 @@
+
+state={
+	id=1195
+	name="STATE_1195"
+	resources={
+		rubber=2.000
+	}
+	state_category = small_island
+	provinces={
+		2453 2353 2322 2306 2303 2249 2140 2112 1799 
+	}
+	history={
+		owner = EQS
+		add_core_of = EQS
+		buildings = {
+			infrastructure = 0
+			2140={
+				naval_base = 1
+			}
+			2322={
+				naval_base = 1
+			}
+			1799={
+				naval_base = 1
+			}
+			2453={
+				naval_base = 1
+			}
+		}
+	}
+	manpower=27519
+	buildings_max_level_factor=1.000
+}

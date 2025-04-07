@@ -1,0 +1,31 @@
+
+state={
+	id=283
+	name="STATE_283"
+	resources={
+		crystals=18.000
+		tungsten=4.000
+	}
+
+	history={
+		owner = GFF
+		add_core_of = GFF
+		add_core_of = GRF
+		add_claim_by = YAK
+		add_claim_by = JAK
+		buildings = {
+			infrastructure = 1
+
+		}
+
+	}
+
+	provinces={
+		160 1734 4362 6073 6141 6269 6356 6767 7379 9060 9061 9073 9345 11138 11174 11210 13113 
+	}
+	manpower=50400
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+	local_supplies=0.000
+	impassable=yes
+}

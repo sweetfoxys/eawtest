@@ -1,0 +1,33 @@
+
+state={
+	id=562
+	name="STATE_562"
+
+	history={
+		owner = NTR
+		add_core_of = NTR
+		victory_points = {
+			10200 15 
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 1
+			arms_factory = 1
+			dockyard = 1
+			10200 = {
+				naval_base = 1
+
+			}
+
+		}
+
+	}
+
+	provinces={
+		31 88 123 146 189 1307 2071 6162 6274 6288 9283 10200 11124 11170 12818 13237 13239 
+	}
+	manpower=810300
+	buildings_max_level_factor=1.000
+	state_category=large_town
+	local_supplies=0.000
+}

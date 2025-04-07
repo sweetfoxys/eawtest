@@ -1,0 +1,24 @@
+state={
+	id=278
+	name="STATE_278"
+
+	provinces={
+		350 3290 6191 9100 11330 13106 13107
+	}
+
+	manpower=13329
+	state_category=wasteland
+	buildings_max_level_factor=1.00
+
+	history={
+		owner = GFF
+		add_core_of = GFF
+		add_core_of = GRF
+		add_claim_by = YAK
+		add_claim_by = JAK
+	}
+
+	resources={
+		crystals = 17
+	}
+}

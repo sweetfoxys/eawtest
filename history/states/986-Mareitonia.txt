@@ -1,0 +1,38 @@
+
+state={
+	id=986
+	name="STATE_986"
+	resources={
+		steel=8.000
+		oil=12.000
+	}
+
+	history={
+		owner = OSQ
+		add_core_of = OSQ
+		buildings = {
+			infrastructure = 3
+			arms_factory = 2
+			industrial_complex = 1
+			dockyard = 2
+			14566 = {
+				naval_base = 2
+
+			}
+
+		}
+		victory_points = {
+			14566 20 
+		}
+		
+
+	}
+
+	provinces={
+		14414 14415 14416 14417 14418 14419 14420 14421 14517 14527 14531 14537 14542 14551 14565 14566 14597 
+	}
+	manpower=1146351
+	buildings_max_level_factor=1.000
+	state_category=city
+	local_supplies=0.000
+}

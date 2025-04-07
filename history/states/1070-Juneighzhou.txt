@@ -1,0 +1,29 @@
+
+state={
+	id=1070
+	name="STATE_1070"
+
+	history={
+		owner = KIR
+		add_core_of = KIR
+		buildings = {
+		}
+		victory_points={
+			2867 5 
+		}
+		victory_points={
+			5450 2 
+		}
+		victory_points={
+			5403 3 
+		}
+
+	}
+
+	provinces={
+		5450 5403 5401 5359 5306 5254 5150 2867 2676 
+	}
+	manpower=371200
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

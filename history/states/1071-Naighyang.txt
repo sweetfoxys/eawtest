@@ -1,0 +1,29 @@
+
+state={
+	id=1071
+	name="STATE_1071"
+
+	history={
+		owner = KIR
+		add_core_of = KIR
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			arms_factory = 1
+			dockyard = 1
+			3637={
+				naval_base = 1
+			}
+		}
+		victory_points={
+			3637 20 
+		}
+	}
+
+	provinces={
+		3637 
+	}
+	manpower=995203
+	buildings_max_level_factor=1.000
+	state_category=city
+}

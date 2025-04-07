@@ -1,0 +1,45 @@
+
+state={
+	id=1059
+	name="STATE_1059"
+	resources={
+		steel=4.000
+	}
+
+	history={
+		owner = KIR
+		add_core_of = KIR
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			arms_factory = 1
+			5679={
+				bunker = 1
+				dam = 1
+				landmark_vermilion_palace = 1
+			}
+		}
+		victory_points={
+			5679 15 
+		}
+		victory_points={
+			5429 5 
+		}
+		victory_points={
+			5578 3
+		}
+		victory_points={
+			5434 2 
+		}
+		victory_points={
+			5911 1
+		}
+	}
+
+	provinces={
+		5932 5911 5867 5815 5757 5755 5731 5711 5705 5679 5677 5655 5601 5578 5577 5575 5554 5530 5504 5482 5478 5476 5434 5430 5429 5406 5332 
+	}
+	manpower=1298114
+	buildings_max_level_factor=1.000
+	state_category=city
+}

@@ -1,0 +1,22 @@
+
+state={
+	id=816
+	name="STATE_816"
+
+	history={
+		owner = KIR
+		add_core_of = KIR
+		victory_points={
+			7966 5 
+		}
+		victory_points={
+			2732 2 
+		}
+	}
+	provinces={
+		8613 7966 6272 8765 8285 2774 16734 16735 13053 13022 2732 2701 13052 16736 16737
+	}
+	manpower=396232
+	buildings_max_level_factor=1.000
+	state_category=rural
+}
